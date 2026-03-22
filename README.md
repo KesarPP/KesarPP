@@ -102,6 +102,4 @@ I enjoy creating **modern web applications, AI tools, and responsive interfaces*
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=KesarPP&icon=0&color=0">
-</p>
+
