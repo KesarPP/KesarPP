@@ -1,108 +1,41 @@
-<!-- Animated Intro -->
-
-<h1 align="center">Hi 👋, I'm Kesar Parab</h1>
-
-<p align="center">
-Second-Year Computer Engineering Student | Full Stack Developer | AI Enthusiast
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Python+Developer;AI+Integrated+Application+Builder;Cybersecurity+Enthusiast&center=true&width=500&height=45">
-</p>
-
----
-
 # 💫 About Me
 
-🎓 Second-Year **Computer Engineering Student**
-💻 **Full-Stack Developer** specializing in **React & Python**
-🤖 Building **AI-integrated applications**
-⚡ Passionate about **Cybersecurity & Scalable Systems**
+I am a **Second-Year Computer Engineering Student** and an aspiring **Full-Stack Developer** focused on building intelligent, scalable systems. I thrive at the intersection of robust backend logic and modern, user-friendly frontend design.
 
-I love creating modern, user-friendly applications and solving real-world problems using technology.
+* 💻 **Development:** React, React Native, & Python Specialist
+* 🤖 **AI & ML:** Building Gemini-integrated apps & AI-driven health monitoring
+* ⚡ **Security:** Passionate about Deepfake Detection & Vulnerability Management
+* 🏛️ **Focus:** Creating real-world solutions for healthcare and public administration
 
 ---
 
-# 🌐 Connect With Me
+### 💻 Tech Stack
 
-<p align="center">
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white) |
+| **AI / Data** | ![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75C2?style=flat&logo=google-gemini&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 
-<a href="https://linkedin.com/in/kesar-parab-a92b562b9">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+---
 
-<a href="mailto:parabkesarp20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+### 📊 GitHub Stats
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" alt="GitHub Streak" />
 </p>
 
----
+### 🐍 Contribution Snake
 
-# 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-
-### Database & Cloud
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### AI / Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 📊 GitHub Stats
+### ✍️ Random Dev Quote
+> "First, solve the problem. Then, write the code." – John Johnson
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KesarPP&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesarPP&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/KesarPP/KesarPP/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=KesarPP&icon=0&color=0">
-</p>
+### 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://YOUR_PORTFOLIO_URL) | [Email](mailto:YOUR_EMAIL)
