@@ -86,12 +86,13 @@ I enjoy creating **modern web applications, AI tools, and responsive interfaces*
 
 ---
 
-# 🐍 Contribution Snake
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KesarPP&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
-
 ---
 
 # ✍️ Random Dev Quote
