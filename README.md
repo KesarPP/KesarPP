@@ -3,7 +3,7 @@
 
  
 <p align="center">
-Second-Year Computer Engineering Student | Full Stack Developer | AI Enthusiast
+Third-Year Computer Engineering Student | Full Stack Developer | AI Enthusiast
 </p>
 
 
