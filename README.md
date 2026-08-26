@@ -74,26 +74,6 @@ I enjoy creating **modern web applications, AI tools, and responsive interfaces*
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KesarPP&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesarPP&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KesarPP&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
----
 
 # ✍️ Random Dev Quote
 
